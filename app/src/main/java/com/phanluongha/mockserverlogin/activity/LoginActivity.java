@@ -78,6 +78,7 @@ public class LoginActivity extends BaseActivity implements LoginView {
         String email = mEmail.getText().toString();
         String password = mPassword.getText().toString();
 
+        // branch 1 try to commit 4
 
         // Check for a valid email address. dfdf
         if (TextUtils.isEmpty(email)) {

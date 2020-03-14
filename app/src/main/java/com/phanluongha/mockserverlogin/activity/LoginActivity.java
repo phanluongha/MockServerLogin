@@ -78,7 +78,7 @@ public class LoginActivity extends BaseActivity implements LoginView {
         String email = mEmail.getText().toString();
         String password = mPassword.getText().toString();
 
-        // Check for a valid email address.
+        // Check for a valid email address. dfdfd
         if (TextUtils.isEmpty(email)) {
             mEmail.setError(getString(R.string.error_field_required));
             mEmail.requestFocus();

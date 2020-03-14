@@ -85,6 +85,9 @@ public class LoginActivity extends BaseActivity implements LoginView {
 		
 		// branch 2 commit 2
 
+		//branch 1 commit 1
+
+
         // Check for a valid email address. dfdf
         if (TextUtils.isEmpty(email)) {
             mEmail.setError(getString(R.string.error_field_required));

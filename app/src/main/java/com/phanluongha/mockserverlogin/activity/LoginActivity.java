@@ -89,6 +89,8 @@ public class LoginActivity extends BaseActivity implements LoginView {
 		// branch 2 commit xyz
 		
 		// branch 1 commit abc
+		
+		//branch 2 commot o
 
         // Check for a valid email address. dfdf
         if (TextUtils.isEmpty(email)) {
